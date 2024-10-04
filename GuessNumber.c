@@ -24,7 +24,7 @@ int main()
             printf("Higher number please!\n");
         }
         else{
-            printf("You guessed it in %d attempts.\n", nguesses); // no. of guesses
+            printf("You guessed it in %d attempts.\n", nguesses); // number of guesses
         }
         nguesses++;  // increment after the guess
     } 
